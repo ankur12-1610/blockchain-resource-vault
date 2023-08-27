@@ -7,9 +7,9 @@
 
 #### You'll need this to refer to Cryptographic Algorithms: https://asecuritysite.com/
 
-#### Internet Computer of Blockchain: 
+#### Internet Computer of Blockchain: (Optional)
 - https://internetcomputer.org/docs/current/developer-docs/
-- IMPORTANT: Creating a Dapp using ICP is must: https://internetcomputer.org/docs/current/tutorials/create_your_first_app/
+- Creating a Dapp using ICP: https://internetcomputer.org/docs/current/tutorials/create_your_first_app/
 
 #### Learn Solidity: https://cryptozombies.io/
 

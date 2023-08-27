@@ -3,7 +3,7 @@
 
 #### Basics of Blockchain:
 - https://youtu.be/_160oMzblY8 -> Do watch this carefully understanding the basics of blockchain is a must.
-- [Grokking Bitcoin](https://rosenbaum.se/book/grokking-bitcoin.html) by Kalle Rosenbaum | [Videos of the same book](https://www.youtube.com/playlist?list=PLdW8AKJtqW7u7JKzkiXsDxNFlOrmjGwDJ) -> If you can spare the time, consider checking out this book. It delves deeper into how Bitcoin operates, helping you grasp how foundational principles are employed in creating a new form of currency.
+- [Grokking Bitcoin](https://rosenbaum.se/book/grokking-bitcoin.html) by Kalle Rosenbaum | [Videos of the same book](https://www.youtube.com/playlist?list=PLdW8AKJtqW7u7JKzkiXsDxNFlOrmjGwDJ) -> If you have spare time, consider checking out this book. It delves deeper into how Bitcoin operates, helping you grasp how foundational principles are employed in creating a new form of currency.
 
 #### You'll need this to refer to Cryptographic Algorithms: https://asecuritysite.com/
 
